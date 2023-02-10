@@ -2,6 +2,6 @@
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning SkillFactory: FR
 - 📫 How to reach me in SLACK - Илья Титович FR-118
-                      in Telegram @mr_fischer
+- 📫 How to reach me in Telegram  - @mr_fischer
 
 
