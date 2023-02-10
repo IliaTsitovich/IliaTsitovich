@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IliaTsitovich (Илья Титович)
-- 👀 I’m interested in java/html frontend 
+- 👀 I’m interested in frontend development
 - 🌱 I’m currently learning SkillFactory: FR
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me in SLACK - Илья Титович FR-118
+                      in Telegram @mr_fischer
 
 
