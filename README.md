@@ -1,6 +1,6 @@
 :mag_right: Contacts | :fire: My Stats
 |:---|:---:|
-**Location**: Kobrin, Belarus  </br>  **Phone**: +375 29 821 97 39  </br>  **Email**: iliatsitovich95@gmail.com  </br>  **Telegram**: Mihey#3420  </br>  **LinkedIn**: [Click here!](https://www.linkedin.com/in/itsitovich/)|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IliaTsitovich&layout=compact&theme=vision-friendly-dark" width="400">  </br>  
+**Location**: Kobrin, Belarus  </br>  **Phone**: +375 29 821 97 39  </br>  **Email**: iliatsitovich95@gmail.com  </br>  **Telegram**: [Click here!]( https://t.me/mr_fischer)  </br>  **LinkedIn**: [Click here!](https://www.linkedin.com/in/itsitovich/)|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IliaTsitovich&layout=compact&theme=vision-friendly-dark" width="400">  </br>  
 
 ---
 
