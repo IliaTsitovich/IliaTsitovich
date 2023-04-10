@@ -22,5 +22,5 @@
 ## Pet Projects
 Project Repository|Project Deploy|Project Description
 |:---:|:---:|---
-[Books-Market](https://github.com/IliaTsitovich/Books-market-on-API-Google-Books)|[API Google Books](https://developers.google.com/books/docs/v1/using?hl=ru)|Development of application for a building company Alfa Repair Building. Used technologies and libraries: ***JS, SCSS, Webpack, Webpack Server***
+[Books-Market](https://github.com/IliaTsitovich/Books-market-on-API-Google-Books)|[API Google Books](https://developers.google.com/books/docs/v1/using?hl=ru)|Development of application for my Portfolio. Used technologies and libraries: ***JS, SCSS, Webpack, Webpack Server***
 
