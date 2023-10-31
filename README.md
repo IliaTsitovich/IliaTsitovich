@@ -23,4 +23,5 @@
 Project Repository|Project Deploy|Project Description
 |:---:|:---:|---
 [Books-Market](https://github.com/IliaTsitovich/Books-market-on-API-Google-Books)|[API Google Books](https://developers.google.com/books/docs/v1/using?hl=ru)|Development of application for my Portfolio. Used technologies and libraries: ***JS, SCSS, Webpack, Webpack Server***
+[Kanban-board](https://github.com/IliaTsitovich/Kanban_project)|[REACT](https://create-react-app.dev/)|Development of application for my Portfolio. Used technologies and libraries: ***JSX, SCSS, REACT***
 
