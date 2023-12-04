@@ -23,6 +23,6 @@
 ## Pet Projects
 Project Repository|Project Deploy|Project Description
 |:---:|:---:|---
-[Link](https://github.com/IliaTsitovich/Books-market-on-API-Google-Books)|[Books-Market](https:IliaTsitovich.github.io/Books-market-on-API-Google-Books)|Development of application for my Portfolio. Used technologies and libraries: ***JS, SCSS, Webpack, Webpack Server***
-[Link](https://github.com/IliaTsitovich/Kanban_project)|[Kanban-board REACT](https:IliaTsitovich.github.io/Kanban_project)|Development of application for my Portfolio. Used technologies and libraries: ***JSX, SCSS, REACT***
+[Link](https://github.com/IliaTsitovich/Books-market-on-API-Google-Books)|[Books-Market](https://IliaTsitovich.github.io/Books-market-on-API-Google-Books)|Development of application for my Portfolio. Used technologies and libraries: ***JS, SCSS, Webpack, Webpack Server***
+[Link](https://github.com/IliaTsitovich/Kanban_project)|[Kanban-board REACT](https://IliaTsitovich.github.io/Kanban_project)|Development of application for my Portfolio. Used technologies and libraries: ***JSX, SCSS, REACT***
 
