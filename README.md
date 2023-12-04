@@ -1,6 +1,6 @@
 :mag_right: Contacts | :fire: My Stats
 |:---|:---:|
-**Location**: Kobrin, Belarus  </br>  **Phone**: +375 29 821 97 39  </br>  **Email**: iliatsitovich95@gmail.com  </br>  **Telegram**: [Click here!]( https://t.me/mr_fischer)  </br>  **LinkedIn**: [Click here!](https://www.linkedin.com/in/itsitovich/)|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IliaTsitovich&layout=compact&theme=vision-friendly-dark" width="400">  </br>  
+**Location**: Kobrin, Belarus  </br>  **Phone**: +48 572 111 977  </br>  **Email**: ilya.tsitovich.pl@gmail.com  </br>  **Telegram**: [Click here!]( https://t.me/mr_fischer)  </br>  **LinkedIn**: [Click here!](https://www.linkedin.com/in/itsitovich/)|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IliaTsitovich&layout=compact&theme=vision-friendly-dark" width="400">  </br>  
 
 ---
 
@@ -14,6 +14,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" **alt="React" height="50"/>&nbsp;
 </div>
 
 ---
@@ -22,6 +23,6 @@
 ## Pet Projects
 Project Repository|Project Deploy|Project Description
 |:---:|:---:|---
-[Books-Market](https://github.com/IliaTsitovich/Books-market-on-API-Google-Books)|[API Google Books](https://developers.google.com/books/docs/v1/using?hl=ru)|Development of application for my Portfolio. Used technologies and libraries: ***JS, SCSS, Webpack, Webpack Server***
-[Kanban-board](https://github.com/IliaTsitovich/Kanban_project)|[REACT](https://create-react-app.dev/)|Development of application for my Portfolio. Used technologies and libraries: ***JSX, SCSS, REACT***
+[Link](https://github.com/IliaTsitovich/Books-market-on-API-Google-Books)|[Books-Market](https:IliaTsitovich.github.io/Books-market-on-API-Google-Books)|Development of application for my Portfolio. Used technologies and libraries: ***JS, SCSS, Webpack, Webpack Server***
+[Link](https://github.com/IliaTsitovich/Kanban_project)|[Kanban-board REACT](https:IliaTsitovich.github.io/Kanban_project)|Development of application for my Portfolio. Used technologies and libraries: ***JSX, SCSS, REACT***
 
