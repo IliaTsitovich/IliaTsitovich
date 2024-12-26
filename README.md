@@ -23,7 +23,7 @@
 ## Pet Projects
 Project Repository|Project Deploy|Project Description
 |:---:|:---:|---
-[Link](https://github.com/IliaTsitovich/Books-market-on-API-Google-Books)|[Servive GitHub API](https://iliatsitovich.github.io/Project-with-API-GitHub)|Design Basis:Figma. Key Features: GitHub API which provides functionality for searching users and repositories on GitHub. Technologies ***Typescript, CSS, REACT+Vite, Github API, Fetch***
+[Link](https://github.com/IliaTsitovich/Books-market-on-API-Google-Books)|[Servise GitHub API](https://iliatsitovich.github.io/Project-with-API-GitHub)|Design Basis:Figma. Key Features: GitHub API which provides functionality for searching users and repositories on GitHub. Technologies ***Typescript, CSS, REACT+Vite, Github API, Fetch***
 [Link](https://github.com/IliaTsitovich/Books-market-on-API-Google-Books)|[Books-Market](https://IliaTsitovich.github.io/Books-market-on-API-Google-Books)|Technologies Used: JS, REST-API, Webpack Key Features: Fetch and display books using the Google Books API, Add selected books to a shopping cart and Save cart information to localStorage for persistence.
 [Link](https://github.com/IliaTsitovich/React-App-Kanban-board)|[Kanban-board REACT](https://iliatsitovich.github.io/React-App-Kanban-board/)|Technologies Used: React, including function components and various hooks. Key Features: Implemented a feature to save tasks to localStorage. count tasks, link between blocks. ***JSX, SCSS, REACT***
 [Link](https://github.com/IliaTsitovich/Project-Slider)|[Slider JS](https://iliatsitovich.github.io/Project-Slider)|Development of application for my Portfolio. Used technologies and libraries: JS, CSS
