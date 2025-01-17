@@ -1,6 +1,6 @@
 :mag_right: Contacts | :fire: My Stats
 |:---|:---:|
-**Phone**: +48 572 111 977  </br>  **Email**: ilya.tsitovich.pl@gmail.com  </br>  **Telegram**: [@mr_fischer]( https://t.me/mr_fischer)  </br>  **LinkedIn**: [Click here!](https://www.linkedin.com/in/itsitovich/)|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IliaTsitovich&layout=compact&theme=vision-friendly-dark" width="400">  </br>  
+**Email**: ilya.tsitovich.pl@gmail.com  </br>  **Telegram**: [@mr_fischer]( https://t.me/mr_fischer)  </br>  **LinkedIn**: [Click here!](https://www.linkedin.com/in/itsitovich/)|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IliaTsitovich&layout=compact&theme=vision-friendly-dark" width="400">  </br>  
 
 ---
 
