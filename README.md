@@ -1,6 +1,18 @@
 <div id="header" align="center" >
   <div>
     <h1>Hi, I`m Ilya, Fronted developer</h1>
+    <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"  title="vscode" alt="vscode" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"  title="CSS3" alt="CSS" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" **alt="React" height="50"/>&nbsp;
+  </div>
   </div>
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZsa2t2dmJtN201M3pyZTBqMmJ1cWgyZmpxeGl2MHRsZnF2cTFwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/3SL41WtN5l9DNdPJGs/giphy.gif" width="150"/>
   <div id="badges">
@@ -21,21 +33,6 @@
 
 <div id="static" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IliaTsitovich&layout=compact&theme=vision-friendly-dark" width="350">  
-  <br>
-  <br>
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"  title="vscode" alt="vscode" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"  title="CSS3" alt="CSS" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" **alt="React" height="50"/>&nbsp;
-  </div>
-  
 </div>
 ---
 
