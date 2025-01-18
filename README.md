@@ -1,8 +1,8 @@
 <div id="header" align="center" >
   <div>
-    <h1>Hi, I`m Fronted developer</h1>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZsa2t2dmJtN201M3pyZTBqMmJ1cWgyZmpxeGl2MHRsZnF2cTFwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/3SL41WtN5l9DNdPJGs/giphy.gif" width="150"/>
+    <h1>Hi, I`m Ilya, Fronted developer</h1>
   </div>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZsa2t2dmJtN201M3pyZTBqMmJ1cWgyZmpxeGl2MHRsZnF2cTFwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/3SL41WtN5l9DNdPJGs/giphy.gif" width="150"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/itsitovich/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
