@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="center" style="backgroundColor: black">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXNlZzh4dHp3bGY5eWZya2hpbzB3Y2EycGExYmd2dmJzbTB5ZTQwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
 </div>
 
