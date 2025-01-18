@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/stickers/code-creating-rockd-hqU2KkjW5bE2v2Z7Q2" width="100"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXNlZzh4dHp3bGY5eWZya2hpbzB3Y2EycGExYmd2dmJzbTB5ZTQwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
 </div>
 
 :mag_right: Contacts | :fire: My Stats
