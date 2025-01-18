@@ -11,7 +11,7 @@
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=IliaTsitovich&style=for-the-badge&color=64d983" alt="view statistic" marginTop="10px"/>
+  <img src="https://komarev.com/ghpvc/?username=IliaTsitovich&style=for-the-badge&color=64d983" alt="view statistic" margin="10px"/>
 </div>
 
 
