@@ -1,5 +1,5 @@
 <div id="header" align="center" >
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZsa2t2dmJtN201M3pyZTBqMmJ1cWgyZmpxeGl2MHRsZnF2cTFwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/3SL41WtN5l9DNdPJGs/giphy.gif" width="300"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZsa2t2dmJtN201M3pyZTBqMmJ1cWgyZmpxeGl2MHRsZnF2cTFwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/3SL41WtN5l9DNdPJGs/giphy.gif" width="150"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/itsitovich/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,7 +11,7 @@
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=IliaTsitovich&style=for-the-badge&color=2d5438" alt="view statistic"/>
+  <img src="https://komarev.com/ghpvc/?username=IliaTsitovich&style=for-the-badge&color=64d983" alt="view statistic"/>
 </div>
 
 
