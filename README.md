@@ -1,13 +1,22 @@
 <div id="header" align="center" >
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZsa2t2dmJtN201M3pyZTBqMmJ1cWgyZmpxeGl2MHRsZnF2cTFwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/3SL41WtN5l9DNdPJGs/giphy.gif" width="300"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/itsitovich/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:ilya.tsitovich.pl@gmail.com">
+      <img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=EMAIL&logoColor=white" alt="EMAIL Badge"/>
+    </a>
+    <a href="https://t.me/mr_fischer">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=IliaTsitovich&style=for-the-badge&color=2d5438" alt="view statistic"/>
 </div>
 
 
-:mag_right: Contacts | :fire: My Stats
-|:---|:---:|
-**Email**: ilya.tsitovich.pl@gmail.com  </br>  **Telegram**: [@mr_fischer]( https://t.me/mr_fischer)  </br>  **LinkedIn**: [Click here!](https://www.linkedin.com/in/itsitovich/)|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IliaTsitovich&layout=compact&theme=vision-friendly-dark" width="400">  </br>  
-
----
+ :fire: My Stats
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IliaTsitovich&layout=compact&theme=vision-friendly-dark" width="400">  
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"  title="vscode" alt="vscode" height="50"/>&nbsp;
