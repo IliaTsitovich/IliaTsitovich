@@ -50,6 +50,24 @@
 
 ---
 
+## 🚀 What I'm Building
+
+Building production React and TypeScript applications for EdTech, e-commerce, and travel-tech products. Skilled in component-driven architecture, performance optimization, accessibility, and test-driven development.
+
+Experienced in designing and maintaining design systems, implementing micro-frontend architecture, and mentoring engineers. Looking to bring user-centric, high-performance interface development to a fast-paced product team.
+
+## 🛠️ Languages and Tools
+
+- **Frontend:** React, TypeScript, JavaScript (ES6+), Next.js, HTML
+- **State and Data:** Redux Toolkit, RTK Query
+- **Styling:** CSS3, SASS, Tailwind, PostCSS
+- **Testing:** Jest, Testing Library, Vitest, Cypress
+- **Tooling:** Claude Code, Webpack, Vite, Babel, NPM, Git, Lighthouse, GrowthBook
+- **Design and Docs:** Storybook, Figma, Design Systems, WCAG accessibility
+- **Concepts:** Micro Frontends, PWA, SSR/SSG, CI/CD, TDD, Performance Optimization
+
+---
+
 ## Featured Projects
 
 | Project | Demo | Description | Tech Stack |
