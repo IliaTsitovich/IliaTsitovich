@@ -73,7 +73,7 @@ Experienced in designing and maintaining design systems, implementing micro-fron
 | Project | Demo | Description | Tech Stack |
 |---|---|---|---|
 | [GitHub API Explorer](https://github.com/IliaTsitovich/Project-with-API-GitHub) | [Live](https://iliatsitovich.github.io/Project-with-API-GitHub) | Repository search tool with pagination and multiple loading/error states, built with functional components. Main challenge was implementing paginated loading of repository lists. | `TypeScript` `React` `Vite` `GitHub API` |
-| [Kanban Board](https://github.com/IliaTsitovich/React-App-Kanban-board) | [Live](https://iliatsitovich.github.io/React-App-Kanban-board/) | Drag-and-connect task board built from a design mockup, with inline task editing and description saving across board stages. | `React` `useState` `useContext` `SCSS` |
+| [Kanban Board](https://iliatsitovich.github.io/React-App-Kanban-board/login) | [Live](https://iliatsitovich.github.io/React-App-Kanban-board/) | Drag-and-connect task board built from a design mockup, with inline task editing and description saving across board stages. | `React` `useState` `useContext` `SCSS` |
 | [Books Market](https://github.com/IliaTsitovich/Books-market-on-API-Google-Books) | [Live](https://IliaTsitovich.github.io/Books-market-on-API-Google-Books) | Storefront using the Google Books API, with a slider for featured content, category sections, and a simulated cart with saved selections. Fully responsive. | `JavaScript` `REST API` `Webpack` `SCSS` |
 | [Image Slider](https://github.com/IliaTsitovich/Project-Slider) | [Live](https://iliatsitovich.github.io/Project-Slider) | Custom image slider built from a design mockup with responsive layout across devices. | `HTML` `SCSS` `JavaScript` |
 
