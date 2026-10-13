@@ -1,11 +1,16 @@
 <div id="header" align="center">
-  <h1>Hi, I'm Ilya — Frontend Developer, 6+ years of experience</h1>
 
-  <p>
-    I build responsive, accessible web applications with React, TypeScript, and modern tooling.
-    Currently focused on state management (Redux Toolkit), component-driven UI, and test-covered code.
-    Open to interesting projects and collaborations.
-  </p>
+<h1>Hi, I'm Ilia — Frontend Engineer, 4+ years of experience</h1>
+
+<p>
+  I build high-performance, accessible web applications and complex enterprise dashboards with React, TypeScript, and Next.js. 
+  Currently focused on advanced state management (Redux Toolkit, RTK Query), performant data-heavy grids, and test-driven development (TDD).
+</p>
+
+<p>
+  <b>Core focus areas:</b> Webpack & bundle optimization, WCAG 2.1 AA compliance, and modular component architectures. Open to interesting projects and collaborations.
+</p>
+
 
   <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" height="50"/>&nbsp;
