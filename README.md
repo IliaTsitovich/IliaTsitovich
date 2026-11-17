@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-<h1>Hi, I'm Ilia — Frontend Engineer, 4+ years of experience</h1>
+<h1>Hi, I'm Ilia — Frontend Engineer, 6+ years of experience</h1>
 
 <p>
   I build high-performance, accessible web applications and complex enterprise dashboards with React, TypeScript, and Next.js. 
